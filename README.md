@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{fervent-mcnulty-f6de5b.netlify.app}">
+    <a href="https://fervent-mcnulty-f6de5b.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/warty-warthog/devChallenges-404}">
+    <a href="https://github.com/warty-warthog/devChallenges-404">
       Solution
     </a>
     <span> | </span>
@@ -42,8 +42,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 
 - What was your experience?
+   - I learned how to positon elements in a container using flexbox
 - What have you learned/improved?
+   - I can use flexbox a little bit better now
 - Your wisdom? :)
+   - Practice makes perfect!!
 
 
 ## Features
