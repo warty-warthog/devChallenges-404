@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{DevChallenges - 404 page}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://fervent-mcnulty-f6de5b.netlify.app}">
+    <a href="https://{fervent-mcnulty-f6de5b.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/warty-warthog/devChallenges-404}">
+    <a href="https://{github.com/warty-warthog/devChallenges-404}">
       Solution
     </a>
     <span> | </span>
