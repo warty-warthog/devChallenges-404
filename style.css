@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Space+Mono&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-size: 1.14rem;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: Inconsolata, "Poppins", sans-serif;
+    margin: 0;
+
+  }
+
+.title {
+    margin-top: 30px;
+    margin-left: 77px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 200px;
+    justify-content: space-evenly;
+    width: 70%;
+}
+
+.crow-container {
+    width: 540px;
+}
+
+.crow-container img {
+    width: 100%;
+}
+
+.text-container {
+    width: 50%;
+    padding-left: 30px;
+}
+
+.text-container > h3 {
+    font-size: 54px;
+    font-family: Space Mono;
+    margin: 10px 0;
+}
+
+.inner-text {
+    width: 80%;
+    line-height: 36px;
+    margin-top: 30px;
+}
+
+
+.inner-button {
+    padding-top: 20px;
+}
+
+.inner-button button {
+    padding: 15px;
+    background-color: #333;
+    color: #fff;
+    height: 68px;
+    width: 216px;
+    font-family: Inconsolata;
+    border: none;
+    cursor: pointer;
+    margin-top: 30px;
+} 
+
+.subscription {
+    padding-top: 150px;
+    height: 100px;
+    text-align: center;
+    margin-top: auto;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+        margin-top: 150px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .container {
+        flex-direction: column;
+        margin-top: 50px;
+        padding: 15px;
+    }
+
+    .crow-container {
+        width: 100%;
+    }
+
+    .text-container > h3 {
+        font-size: 30px;
+    }
+
+    .text-container {
+        width: 100%;
+    }
+
+    .subscription {
+        padding-top: 15px;
+    }
+}
+
+/* .container {
+    width: 60%;
+    max-width: 90%;
+    margin: auto;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+
+.crow-container {
+    width: 50%;
+    height: 400px;
+}
+
+.crow-container img {
+    width: 100%;
+    padding-right: 50px;
+}
+
+.text-container {
+    width: 50%;
+    padding-left: 30px;
+}
+
+.text-container > h3 {
+    font-size: 54px;
+    font-family: Space Mono;
+    margin: 10px 0;
+}
+
+.inner-text {
+    width: 40%;
+    line-height: 36px;
+    margin-top: 30px;
+}
+
+
+.inner-button {
+    padding-top: 20px;
+}
+
+.inner-button button {
+    padding: 15px;
+    background-color: #333;
+    color: #fff;
+    height: 68px;
+    width: 216px;
+    font-family: Inconsolata;
+    border: none;
+    cursor: pointer;
+    margin-top: 30px;
+} */
+
