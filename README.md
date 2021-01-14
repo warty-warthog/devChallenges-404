@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{warty-warthog.github.io/404}">
+    <a href="https://{https://fervent-mcnulty-f6de5b.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/warty-warthog/devChallenges-404}">
       Solution
     </a>
     <span> | </span>
@@ -40,18 +40,11 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
 
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
@@ -70,6 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@warty-warthog](https://{github.com/warty-warthog})
